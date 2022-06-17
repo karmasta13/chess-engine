@@ -1,8 +1,5 @@
 # Chess Engine
 
-Minimax algorithm search and alpha-beta pruning search are the main algorithms focused on proposed solutions. 
-
-
 As someone who had no idea on chess, I needed a partner to learn it. What better partner than the intelligent computer? So, I taught computer to play the chess and in the same way learnt it with it. 
 </br>
 
