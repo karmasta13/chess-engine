@@ -13,7 +13,7 @@ As someone who had no idea on chess, I needed a partner to learn it. What better
 <br/><br/>
 
 <p align="center">
-	<img src="./images/secondScreen.png" width="350"/>
+	<img src="./images/secondscreen.png" width="350"/>
 </p>
 
 
